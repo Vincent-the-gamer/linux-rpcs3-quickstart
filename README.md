@@ -1,3 +1,7 @@
+<p align="center">
+    <img src=".github/rpcs3.jpg" style="width: 80px; height: 80px;"/>
+</p>
+
 <h1 align="center">Linux RPCS3 Quick Start Kit</h1>
 
 <p align="center">Quickstart kit for emulating PS3 on Linux systems with RPCS3.</p>
@@ -18,7 +22,7 @@ If the kit is outdated, please raise an issue.
 # RPCS3 Installation Tutorial
 
 > [!NOTE]
-> These 2 videos following are the same.
+> These 2 following videos are the same.
 
 Bilibili: [https://www.bilibili.com/video/BV1sy421z73r](https://www.bilibili.com/video/BV1sy421z73r)
 
@@ -28,3 +32,5 @@ The videos demonstrated the installation on a Steam Deck(Steam OS), but it's als
 
 Btw I've installed it on my Arch Linux mini PC and Steam Deck, and they both works well.
 
+# PS3 Games
+Download PS3 games from [https://r-roms.github.io/megathread/sony/#sony-playstation-3](https://r-roms.github.io/megathread/sony/#sony-playstation-3)
