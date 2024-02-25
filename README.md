@@ -19,7 +19,7 @@ The kit contains:
 
 If the kit is outdated, please raise an issue.
 
-# RPCS3 Installation Tutorial
+# RPCS3 Installation Guide
 
 > [!NOTE]
 > These 2 following videos are the same.
