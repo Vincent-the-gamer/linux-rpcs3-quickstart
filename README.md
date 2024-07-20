@@ -14,8 +14,8 @@ If not, please download the **[Starter Kit](https://github.com/Vincent-the-gamer
 
 The kit contains:
 
-1. RPCS3 Linux AppImage v0.0.30
-2. PS3 Firmware Version 4.90 (Named **`PS3UPDAT.PUP`**)
+1. RPCS3 Linux AppImage v0.0.32
+2. PS3 Firmware Version 4.91 (Named **`PS3UPDAT.PUP`**)
 
 If the kit is outdated, please raise an issue.
 
